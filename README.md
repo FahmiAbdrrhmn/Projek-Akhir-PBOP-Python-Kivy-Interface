@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projek Akhir PBOP - Sistem Manajemen Reservasi Hotel
 
 ## Deskripsi Proyek
@@ -33,3 +34,6 @@ python -m venv myenv
 myenv\scripts\activate.bat
 pip install -r requirements.txt
 ```
+=======
+# Projek-Akhir-PBOP-Python-Kivy-Interface
+>>>>>>> d82d2b55354a185e06b1dbcb46d73197660f536c
